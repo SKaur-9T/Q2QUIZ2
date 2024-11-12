@@ -1,0 +1,32 @@
+h1 {
+	text-align: center;
+}
+.header h1 {
+	text-align: center;
+	color: #17153B;
+	background-color: #FDFFC2;
+	font-family: Sofadi One Static
+}
+.header {
+	padding: 20px;
+	margin: 25px;
+	text-align: center;
+}
+.footer {
+	bottom: 0;
+	position: fixed;
+	background-color: #577D86;
+	width: 100%;
+	text-align: center;
+	color:  #17153B;
+	background-color: #FDFFC2;
+	font-family: Sofadi One Static
+}
+body{
+	background-image: url(https://static.vecteezy.com/system/resources/previews/009/948/847/original/brown-aesthetic-abstract-minimal-background-perfect-for-wallpaper-backdrop-postcard-background-vector.jpg);
+}
+.Rowalcal {
+	border-color: black;
+	border-radius: 1px;
+	border: 1px solid;
+}
